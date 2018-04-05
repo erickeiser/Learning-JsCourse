@@ -7,9 +7,9 @@ function calcAge(birthYear) {
   return age;
 }
 
-var Eric = calcAge(1996);
-var Emma = calcAge(2011);
-var Braylen = calcAge(2015);
+var Eric = calcAge(1982);
+var Emma = calcAge(1912);
+var Braylen = calcAge(1976);
 console.log("In 2018 Eric will be "+ Eric);
 console.log("In 2018 Emma will be "+ Emma);
 console.log("In 2018 Braylen will be "+ Braylen);
@@ -25,5 +25,5 @@ function retirementAge(name, birthYear) {
   
 }
 retirementAge('Eric', 1982);
-retirementAge('Emma', 2011);
-retirementAge('Braylen', 2015);
+retirementAge('Emma', 1912);
+retirementAge('Braylen', 1976);
