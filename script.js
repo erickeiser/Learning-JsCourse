@@ -28,7 +28,7 @@ switch (job) {
   console.log('John does something else');
 } */
 
-var height = 220;
+var height = 320;
 var fheight = 101;
 var P3height = 101;
 var age = 28;
